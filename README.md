@@ -1,7 +1,7 @@
 # ptraxx-app-releases
 19 September 2026
 
-# pTraxx — Downloads
+# pTraxx || App Downloads
 
 Official release builds of **pTraxx**, the digital out-of-home (DOOH) signage player and content platform by [Traxx Technology](https://traxxtech.africa).
 
