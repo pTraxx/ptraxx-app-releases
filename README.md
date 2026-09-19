@@ -14,7 +14,7 @@ Official release builds of **pTraxx**, the digital out-of-home (DOOH) signage pl
 | Windows 10/11 (64-bit) | `ptraxx-setup.exe` | [Download](https://github.com/pTraxx/ptraxx-app-releases/releases/download/v1.0.4/ptraxx.exe) |
 | Android | `ptraxx.apk` | [Download](https://github.com/pTraxx/ptraxx-app-releases/releases/download/v1.0.4/ptraxx.apk) |
 
-Older versions and release notes: [Releases](https://github.com/<you>/ptraxx-releases/releases)
+Older versions and release notes: [Releases](https://github.com/pTraxx/ptraxx-app-releases/releases)
 
 ## Install
 
